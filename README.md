@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @agusvelaz
-- 👀 I am looking for work experience in the IT field, while I continue to learn and train myself.
-- 🌱 SKILLS: HTML, CSS, JavaScript, JQuery, React, Node.js, Sass, Bootstrap, Material UI, Git, Github, although my motivation for improve and expand my knowledge has no limits!
-<!--- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  --->
+## 👋 Hi, I’m @agusvelaz
+# 👀 Currently focused on the main web application development technologies, although my motivation to improve and expand my knowledge has no limits!.
 
-<!---
-agusvelaz/agusvelaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ## ✨ Technologies 
+- JavaScript, React, Next.js.
+- Node.js.
+- HTML, CSS, ChakraUI, MUI, among others component libraries
+<!-- - Relational (PostgreSQL) and non-relational databases (MongoDB) -->
+- Serverless services.
+
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/agusvelaz/)
+- agus-velaz@hotmail.com
+
