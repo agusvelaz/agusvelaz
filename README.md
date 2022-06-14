@@ -5,9 +5,9 @@
 ## ✨ Technologies 
 - JavaScript, React, Next.js.
 - Node.js.
-- HTML, CSS, ChakraUI, MUI, among others component libraries
-<!-- - Relational (PostgreSQL) and non-relational databases (MongoDB) -->
+- HTML, CSS, ChakraUI, MUI, among others component libraries.
 - Serverless services.
+<!-- - Relational (PostgreSQL) and non-relational databases (MongoDB) -->
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/agusvelaz/)
