@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @agusvelaz
-# 👀 Currently focused on the main web application development technologies, although my motivation to improve and expand my knowledge has no limits!.
+### 👀 Currently focused on the main web application development technologies, although my motivation to improve and expand my knowledge has no limits!.
 
 - ## ✨ Technologies 
 - JavaScript, React, Next.js.
