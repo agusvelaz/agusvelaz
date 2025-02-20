@@ -11,5 +11,4 @@ DevOps and Tools: Git, GitHub, Vercel, Hasura, Serverless, Storybook.
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/agusvelaz)
-- agus-velaz@hotmail.com
 
