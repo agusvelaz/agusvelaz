@@ -1,15 +1,15 @@
 ## 👋 Hi, I’m @agusvelaz
 
-👀 Currently focused on the main web application development technologies, although my motivation to improve and expand my knowledge has no limits!.
+👀 Currently focused on the main web application development technologies.
 
 ## ✨ Technologies 
-- JavaScript, React, Next.js.
-- Node.js.
-- HTML, CSS, ChakraUI, MUI, among others component libraries.
-- Serverless services.
-<!-- - Relational (PostgreSQL) and non-relational databases (MongoDB) -->
+Languages: JavaScript, TypeScript, SQL.
+Frontend: React, Next.js, HTML, CSS, Tailwind CSS, Chakra UI, MUI.
+Backend: Node.js, NestJS, Express, GraphQL, Firebase.
+DevOps and Tools: Git, GitHub, Vercel, Hasura, Serverless, Storybook.
+
 
 ## 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/agusvelaz/)
+- [LinkedIn](https://www.linkedin.com/in/agusvelaz)
 - agus-velaz@hotmail.com
 
